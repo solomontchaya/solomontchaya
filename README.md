@@ -15,9 +15,7 @@ From architecting **microservices** to deploying **full-stack platforms**, I bri
 ---
 
 ## 🚀 Current Projects  
-- 🪙 **SokoSats** — A Django-based Bitcoin exchange for buying & selling sats with Blink + mobile money integration  
-- 🚕 **Kwera Taxi** — Building the foundation for an on-demand transport ecosystem  
-- 🚌 **Kwera Bus** — Bus booking system using `django-organizations` for company + user management  
+- 🪙 **Min Dex** — A Django-based Bitcoin exchange for buying & selling sats with Blink + mobile money integration  
 - 🛍️ **E-commerce platform** — Tailwind + Django app enabling smart vendor-customer coordination  
 - 🤖 **Job Scraper** — Crawls corporate sites, refines postings with LLMs, and publishes structured listings  
 
